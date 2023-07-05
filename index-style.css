@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background: url(/wallpaperflare.com_wallpaper\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+     height: 100vh;
+
+}
+.Logo{
+    height: 200px;
+    margin-top: -50px;
+    
+}
+#head-container{
+
+}
+.text-style  h1  {
+    text-align: center;
+    font-size:120px;
+    color: #c10d49dd;
+    font-family: 'Abel', sans-serif;
+font-family: 'Kaushan Script', cursive;
+}
+
+.text-style  p{
+    font-size: 40px;
+    text-align: center;
+    color: #a61515;
+    font-style: italic;
+}
+.btn   {
+    text-align: center;
+    margin: 30px;
+}
+.btn a{
+    display: inline-block;
+    padding: 5px;
+    margin-left: 50px;
+    font-size: 40px;
+    text-decoration: none;
+    border: 3px solid #0818a7;
+    border-radius: 40px;
+    color: #01030f;
+    height: 40px;
+    width: 298px;
+    font-style: italic ;
+    font-weight: bolder;
+    
+ 
+    
+    
+}
+
+
+.nav-container{
+    display: flex;
+     justify-content: space-between;
+     width: 100%;
+    background: #00000080;
+    height: 100px;
+    
+}
+.nav-menu{
+    display: flex;
+    text-align: right;
+     margin: 10px 20px 20px 20px;
+    list-style: none;
+    align-items: center;
+    height: 50%;
+    
+
+}
+.nav-menu li a{
+    text-decoration: none;
+    margin: 30px;
+    font-size: 25px;
+    color: #fff;
+    
+}
+
+
